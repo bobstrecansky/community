@@ -169,9 +169,13 @@ Link: https://pypi.org/user/opentelemetry/
  
 ### PHP Extras
 
-SIG Extra Repositories: https://github.com/opentelemetry-php
+##### SIG Extra Repositories: https://github.com/opentelemetry-php
 
-Packagist: https://packagist.org/?query=open-telemetry
+These read only repository clones are used in order to create split-repos, which are necessary for packagist php package publishing.
+
+##### Packagist: https://packagist.org/packages/open-telemetry/
+
+These are the published packages for opentelemetry-php (used by package managers like [composer](https://getcomposer.org))
 
 Owners:
 
