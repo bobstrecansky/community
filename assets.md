@@ -171,6 +171,11 @@ Link: https://pypi.org/user/opentelemetry/
 
 SIG Extra Repositories: https://github.com/opentelemetry-php
 
+Owners:
+
+- [@bobstrecansky](https://github.com/bobstrecansky)
+- [@brettmc](https://github.com/brettmc)
+
 Packagist: https://packagist.org/?query=open-telemetry
 
 Owners:
